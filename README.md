@@ -1,5 +1,5 @@
 # Travel Planner
-Many travel packages almost to all the places over the world are existing from different websites. For frequent travelers, they receive the ticket availabilities through mail notifications based on their frequent booking locations. It will be helpful for them to plan their travel accordingly.
+Many travel packages almost to all the places over the world are existing from different websites. The website is created for the customers usage for registering and booking the tickets based on their needs. Customer data's are stored in the excel sheet separately(backend process). For each customer, individual data's are maintained. For frequent travelers, they receive the ticket availabilities through mail notifications based on their frequent booking locations. It will be helpful for them to plan their travel accordingly.
 
 
 # Module Splitup
