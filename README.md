@@ -1,4 +1,4 @@
-Travel Planner
+# Travel Planner
 Many travel packages almost to all the places over the world are existing from different websites. For frequent travelers, they receive the ticket availabilities through mail notifications based on their frequent booking locations. It will be helpful for them to plan their travel accordingly.
 Module Splitup
 Module 1: Designing the  Web page for Travel management system-[Senthilnathan]
